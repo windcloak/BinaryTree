@@ -17,7 +17,7 @@ A,Ralph Breaks the Internet,2018,PG,3
 A,Frozen,2014,PG,3
 ```
 **Inorder**
-
+```
 Title:   Frozen     
 Year:    2014       
 Rating:  PG         
@@ -37,9 +37,9 @@ Title:   Spiderman
 Year:    2018       
 Rating:  PG         
 Review:  3          
-
+```
 **Preorder**
-
+```
 Title:   Spiderman  
 Year:    2018       
 Rating:  PG         
@@ -59,9 +59,9 @@ Title:   Frozen
 Year:    2014       
 Rating:  PG         
 Review:  3          
-
+```
 **Postorder**
-
+```
 Title:   Spiderman  
 Year:    2018       
 Rating:  PG         
@@ -81,3 +81,4 @@ Title:   Frozen
 Year:    2014       
 Rating:  PG         
 Review:  3          
+```
