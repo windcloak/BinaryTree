@@ -6,7 +6,7 @@ This program develops a custom class of movies. It will read a comma-separated t
 A = add to list
 D = delete from list
 
-Example input
+**Example input**
 A,Spiderman,2018,PG,3
 A,The Twelve Chairs,1970,G,1
 A,Snow Dogs,2002,PG,2
@@ -15,7 +15,7 @@ A,Spiderman,2002,PG-13,4
 A,Ralph Breaks the Internet,2018,PG,3
 A,Frozen,2014,PG,3
 
-Inorder
+**Inorder**
 
 Title:   Frozen     
 Year:    2014       
@@ -37,7 +37,7 @@ Year:    2018
 Rating:  PG         
 Review:  3          
 
-Preorder
+**Preorder**
 
 Title:   Spiderman  
 Year:    2018       
@@ -59,7 +59,7 @@ Year:    2014
 Rating:  PG         
 Review:  3          
 
-Postorder
+**Postorder**
 
 Title:   Spiderman  
 Year:    2018       
