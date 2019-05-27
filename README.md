@@ -1,5 +1,5 @@
 # BinaryTree
-Reads a txt file of movies and outputs it in a binary tree
+(Java) Reads a txt file of movies and outputs it in a binary tree
 
 This program develops a custom class of movies. It will read a comma-separated text file of movies with the title, year, rating, and review. Then it will output the information in a binary tree in another text file. The user can specify if the order is preorder, postorder, or inorder. 
 
